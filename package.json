@@ -16,6 +16,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
+  "homepage": "http://164.92.163.148/masba7a/",
   "browserslist": {
     "production": [
       ">0.2%",
