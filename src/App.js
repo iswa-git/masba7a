@@ -25,6 +25,7 @@ class App extends Component {
             <Tesbihbs text={ "لا إله إلا الله وحده لا شريك له، لهُ الملك، ولهُ الحمد، وهو على كل شيء قدير"  } />
             <Tesbihbs text={ "أستغفر الله الذى لا إله إلا هو الحيّ القيّوم وأتوب إليه"  } />
             <Tesbihbs text={ "سبحان الله وبحمده سبحان الله العظيم"  } />  
+            <Tesbihbs text={ " another test "} />
         </div>
     </div>
     
