@@ -26,6 +26,7 @@ const Tesbihbs = ( { text }  ) => {
                             <i className="fs-4 mb-3 bi bi-repeat"></i>
                         </button>
                         <div onClick={ () => { incrementClick()} } className="mycounter counter-btn">{ counter }</div>
+                        <div>test</div>
                     </div>
                 </div>
             </div>
